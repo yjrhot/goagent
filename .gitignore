@@ -8,3 +8,5 @@
 *.egg
 *.pid
 *.user.ini
+local/proxy.ini
+goagent_access.log
