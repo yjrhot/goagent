@@ -1,0 +1,8 @@
+我自己增加了3个文件：
+1.备份文件switchsharp_rule_export.backup
+2.开机即启动goagent的文件
+init_startup_goagent.sh 
+3.重启goagent的文件
+restart_goagent.sh
+
+为了便于观察goagent是否正常工作,我把goagent的日志打印到了本地的goagent_access.log中
